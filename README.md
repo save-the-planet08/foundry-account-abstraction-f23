@@ -25,7 +25,7 @@ With account abstraction, you can achieve:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/minimal-account-abstraction.git
+    git clone https://github.com/save-the-planet08/minimal-account-abstraction.git
     cd minimal-account-abstraction
     ```
 
